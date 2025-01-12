@@ -1,4 +1,4 @@
-# Project Chet er Gail 🎉
+# Project ChatGail 🎉
 
 A web application built with Vue.js that generates humorous Bengali phrases when you input a name. This project combines a modern user interface with a touch of cultural humor, making it a lighthearted tool for entertainment. 😂
 
